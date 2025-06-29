@@ -95,6 +95,6 @@ O arquivo contém as seguintes abas:
 ---
 
 📁 **Arquivo desenvolvido 100% em Microsoft Excel**  
-👤 **Autor**: [Seu Nome Aqui]  
-📅 **Ano-base**: 2024
+👤 **Autor**: [Barbara Andrade]  
+📅 **Ano-base**: 2025
 
